@@ -1,5 +1,5 @@
 # LUG-Kernel-Module
-Making of a basic kernel module that prints out "Hello, World" to dmesg
+Making of a basic kernel module that prints out "Hello, World" to dmesg.
 
 ## Resources used:
 ```
@@ -18,6 +18,8 @@ Making of a basic kernel module that prints out "Hello, World" to dmesg
   https://tldp.org/LDP/lkmpg/2.6/html/index.html
 
   https://sysprog21.github.io/lkmpg/
+  
+  https://linux-kernel-labs.github.io/refs/heads/master/labs/kernel_modules.html
   
   https://github.com/tleonhardt/linux_lkm
   
