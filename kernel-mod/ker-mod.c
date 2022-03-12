@@ -1,3 +1,5 @@
+//This is a wroking copy. Replace (cp ./version.c ./ker-mod.c) and then use make to compile it without having to make edits to the makefile
+
 #include <linux/init.h>
 #include <linux/module.h>
 #include <linux/kernel.h>
